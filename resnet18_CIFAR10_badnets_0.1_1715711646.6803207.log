@@ -1,0 +1,1 @@
+05/15/2024 02:34:06 AM Namespace(dataset='CIFAR10', nb_classes=10, load_local=False, loss='cross', optimizer='sgd', epochs=50, batch_size=64, num_workers=0, lr=0.1, data_path='./data/', device='cpu', schedule=[100, 150], model='resnet18', type='badnets', poisoning_rate=0.1, trigger_label=1, trigger_path='./Trigger/trigger_white.png', trigger_size=5)
